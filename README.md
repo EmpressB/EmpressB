@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EmpressB
-- 👀 I’m interested in learning to become a Full Stack Java Developer.
-- 🌱 I’m currently learning Java, Javalin, SQL, HTTP and how to build API.
+- 👀 I’m interested in learning to become a Data Anaylst
+- 🌱 I’m currently learning Java, Javalin, SQL, Excel, Python, Tableau, AWS and how to build API.
 - 💞️ I’m looking to collaborate on mini projects to build my experience.
-- 📫 How to reach me :shaday976@revature.net
+- 📫 How to reach me: brown.shaday7@gmail.com
 
 <!---
 EmpressB/EmpressB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
