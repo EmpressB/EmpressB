@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmpressB
-- 👀 I’m interested in learning to become a Data Anaylst
-- 🌱 I’m currently learning Java, Javalin, SQL, Excel, Python, Tableau, AWS and how to build API.
+- 👀 I’m recently became a Data Anaylst
+- 🌱 I’m currently  know Java, Javalin, SQL, Excel, Python, Tableau, AWS and how to build API.
 - 💞️ I’m looking to collaborate on mini projects to build my experience.
 - 📫 How to reach me: brown.shaday7@gmail.com
 
