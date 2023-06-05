@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaday</h1>
 <h3 align="center">A Determined Data Analyst from NYC</h3>
-<img align ="right" alt ="coding" width="200" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw3Vnib87THmzEOXV5UwaWYvcMtbB-tWRRnA&usqp=CAU">
+<img align ="right" alt ="coding" width="400" src ="https://visme.co/blog/wp-content/uploads/2021/08/Data-Visualization-thumbnail.jpg">
 - 🔭 I’m currently working on **E-commerce Sales Dashboard**
 
 - 🌱 I’m currently learning **Chat GPT and Snowflake**
