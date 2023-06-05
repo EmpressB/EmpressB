@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Python and API Frameworks**
 
-- 📝 I regularly write articles on [a secret blog](a secret blog)
+- 📝 I regularly write articles on [a secret blog]
 
 - 💬 Ask me about **SQL, Python and Tableau**
 
